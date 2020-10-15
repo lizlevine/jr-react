@@ -6,7 +6,13 @@ function NavBar(props) {
     <div className="sticky">
       <nav className="navbar navbar-light bg-light">
         <a className="navbar-brand" href="#">
-          John Ryan
+          About
+        </a>
+        <a className="navbar-brand" href="#">
+          Projects
+        </a>
+        <a className="navbar-brand" href="#">
+          Contact
         </a>
         {/* <div>
           <span className="clickResponse">{props.clickResponse}</span>
