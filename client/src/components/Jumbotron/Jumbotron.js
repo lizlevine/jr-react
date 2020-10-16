@@ -6,10 +6,10 @@ function Jumbotron() {
     <div className="jumbotron jumbotron-fluid">
       <div className="jumbo">
         <h1 className="display-4">John Ryan</h1>
-        <p className="lead">
+        <h3 className="lead">
           creative business development <br></br>
           {/* (But each dog only gets one CLICK | REWARD per game!) */}
-        </p>
+        </h3>
       </div>
     </div>
   );
