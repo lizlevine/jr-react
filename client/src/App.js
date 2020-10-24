@@ -10,6 +10,7 @@ render() {
         <div className="App">
             <NavBar />
             <Jumbotron />
+            <Container />
             <Footer />
 
         </div>
