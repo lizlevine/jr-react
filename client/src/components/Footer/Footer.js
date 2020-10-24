@@ -23,17 +23,17 @@ function Footer() {
           /></a>
 
           <img
-            src="assets/images/twitter.png"
+            src="assets/twitter.png"
             class="social"
             alt="Twitter logo"
           />
           <img
-            src="assets/images/instagram.png"
+            src="assets/instagram.png"
             class="social"
             alt="Instagram logo"
           />
 
-          <img src="assets/images/fb2.png" class="social" alt="Facebook logo" />
+          <img src="assets/fb2.png" class="social" alt="Facebook logo" />
         </div>
 
         <p id="copyright">
