@@ -4,7 +4,7 @@ import "./style.css";
 function Footer() {
   return (
     <div>
-      <footer className="text-muted">
+      <footer className="footer">
         {/* <div className="footer">
           <p className="thanks">
             <a href="#">You can find me here:</a>
