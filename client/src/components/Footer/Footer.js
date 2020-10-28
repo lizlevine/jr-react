@@ -1,4 +1,6 @@
 import React from "react";
+import { FaGithub } from "react-icons/fa";
+import { FaLinkedin } from "react-icons/fa";
 import "./style.css";
 
 function Footer() {
@@ -21,6 +23,11 @@ function Footer() {
               class="social"
               alt="LinkedIn logo"
           /></a>
+          <ul>
+          <li><FaGithub /> Check out my Github</li>
+    
+          <li><FaLinkedin />Join my network of creative professionals</li>
+          </ul>
 
           <img
             src="/assets/grey-wht-bird.png"
