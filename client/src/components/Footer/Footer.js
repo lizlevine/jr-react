@@ -17,13 +17,13 @@ function Footer() {
             href="https://www.linkedin.com/in/john-ryan-239ba293"
             target="_blank"
             ><img
-              src="assets/images/linked2.png"
+              src="../assets/grey-rnd-in.png"
               class="social"
               alt="LinkedIn logo"
           /></a>
 
           <img
-            src="assets/twitter.png"
+            src="/assets/grey-wht-bird.png"
             class="social"
             alt="Twitter logo"
           />
