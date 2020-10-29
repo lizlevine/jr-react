@@ -1,4 +1,11 @@
 .footer {
   margin-top: 350px;
   text-align: center;
+  background: whitesmoke;
+  height: 140px;
+  color: lightslategray;
+  padding: 30px 0;
+  clear: both;
+  border-top: 2px solid lightgoldenrodyellow;
+  font-size: 12px;
 }
