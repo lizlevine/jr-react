@@ -4,6 +4,8 @@ import Jumbotron from "./components/Jumbotron/Jumbotron";
 import Footer from "./components/Footer/Footer";
 import Container from "./components/Container/Container";
 import { FaGithub } from "react-icons/fa";
+import { FaLinkedin } from "react-icons/fa";
+import { FaTwitter } from "react-icons/fa";
 
 class App extends React.Component {
 render() {
@@ -14,7 +16,9 @@ render() {
             <Jumbotron />
             <Container />
             <Footer />
-            <FaGithub /> Check out my Github!
+            <FaGithub  color="orangered" size="2em"/> 
+            <FaLinkedin  color="orangered" size="2em"/>
+            <FaTwitter color="orangered" size="2em"/>
 
         </div>
     );

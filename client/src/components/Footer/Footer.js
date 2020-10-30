@@ -10,16 +10,17 @@ function Footer() {
       <footer className="footer">
    
                 <div class="content has-text-centered">
-              <ul>
-        
-          <li><FaLinkedin />Join my network of creative professionals</li>
-          <li><FaTwitter /> </li>
-          <li><FaGithub /></li>
-          </ul>
+            
+        <p className="social-icons">
+        <FaGithub  color="orangered" size="2em"/> 
+            <FaLinkedin  color="orangered" size="2em"/>
+            <FaTwitter color="orangered" size="2em"/>
+          </p>
         <p id="copyright">
           &copy; Copyright 2020 John Ryan LLC
         </p>
       </div>
+
       </footer>
       </div>
    
