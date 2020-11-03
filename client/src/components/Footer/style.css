@@ -4,13 +4,13 @@
   background: whitesmoke;
   height: 140px;
   color: lightslategray;
-  padding: 30px 0;
+  padding: 30px;
+  margin-right: 30px;
   clear: both;
   border-top: 2px solid lightgoldenrodyellow;
   font-size: 12px;
 }
 
 .social-icons {
-  padding: 50px;
-  margin: 30px;
+margin-right: 50px;
 }

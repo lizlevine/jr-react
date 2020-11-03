@@ -16,9 +16,9 @@ render() {
             <Jumbotron />
             <Container />
             <Footer />
-            <FaGithub  color="orangered" size="2em"/> 
+            {/* <FaGithub  color="orangered" size="2em"/> 
             <FaLinkedin  color="orangered" size="2em"/>
-            <FaTwitter color="orangered" size="2em"/>
+            <FaTwitter color="orangered" size="2em"/> */}
 
         </div>
     );
