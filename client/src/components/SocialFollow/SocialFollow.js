@@ -8,3 +8,5 @@ export default function SocialFollow() {
   );
 }
 
+
+export default SocialFollow;
