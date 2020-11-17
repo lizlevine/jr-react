@@ -11,7 +11,7 @@ function Footer() {
                 <div class="content has-text-centered">
             
         <p className="social-icons">
-        <FaGithub  color="orangered" size="2em" padding="40px"/> 
+        <FaGithub  color="orangered" size="4em" padding-right="40px"/> 
             <FaLinkedin  color="orangered" size="2em"/>
             <FaTwitter color="orangered" size="2em"/>
             <FaEnvelope color="orangered" size="2em"/>

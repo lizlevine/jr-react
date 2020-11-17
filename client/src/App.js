@@ -2,7 +2,7 @@ import React from 'react';
 import NavBar from "./components/NavBar/NavBar";
 import Jumbotron from "./components/Jumbotron/Jumbotron";
 import Footer from "./components/Footer/Footer";
-import Container from "./components/Container/Container";
+import Section from "./components/Section/Section";
 import SocialFollow from "./components/SocialFollow/SocialFollow";
 import { FaGithub } from "react-icons/fa";
 import { FaLinkedin } from "react-icons/fa";
@@ -15,7 +15,7 @@ render() {
         <div className="App">
             <NavBar />
             <Jumbotron />
-            <Container />
+            <Section />
             <SocialFollow />
             <Footer />
             {/* <FaGithub  color="orangered" size="2em"/> 

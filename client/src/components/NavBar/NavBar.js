@@ -19,7 +19,7 @@ import "./style.css";
 //     </div>
 //   );
 // }
-function NavBar(props) {
+function NavBar (props) {
   return (
     <div className="sticky">
 {/* <nav className="navbar navbar-expand-lg navbar-light bg-light"> */}
