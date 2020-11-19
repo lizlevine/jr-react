@@ -1,5 +1,14 @@
 .main {
-    padding-top: 400px;
-    margin-top: 400px;
+  padding-top: 400px;
+  margin-top: 400px;
+}
 
+p {
+  margin: 50px;
+  /* margin-right: 50px;
+  margin-left: 50px; */
+}
+
+h4 {
+  text-align: center;
 }

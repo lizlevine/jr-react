@@ -5,7 +5,7 @@ import "./style.css";
 function Section() {
   return (
     <section className="section">
-      <h2>Lorem Ipsum Dolor Sit Amet</h2>
+      <h4>Why Creative Business Development?</h4>
       <p>
         Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque
         laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
