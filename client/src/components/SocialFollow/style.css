@@ -1,9 +1,15 @@
 h2 {
-    text-align: center; 
+  text-align: center;
 }
 
-.social-icons{
-    margin-right: 100px;
-    text-align: center;
-    
-  }
+.social-icons {
+  size: 5 rem;
+  color: orangered;
+  text-align: center;
+  padding: 100px;
+  margin: 100px;
+}
+
+.social-container {
+  padding: 30px;
+}

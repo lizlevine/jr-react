@@ -7,35 +7,16 @@ function Section() {
     <section className="section">
       <h4>Why Creative Business Development?</h4>
       <p>
-        Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque
-        laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-        architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit
-        aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione
-        voluptatem sequi nesciunt. Neque porro quisquam est, qui dolorem ipsum quia dolor sit amet,
-        consectetur, adipisci velit, sed quia non numquam eius modi tempora incidunt ut labore et
-        dolore magnam aliquam quaerat voluptatem. Ut enim ad minima veniam, quis nostrum
-        exercitationem ullam corporis suscipit laboriosam, nisi ut aliquid ex ea commodi
-        consequatur? Quis autem vel eum iure reprehenderit qui in ea voluptate velit esse quam nihil
-        molestiae consequatur, vel illum qui dolorem eum fugiat quo voluptas nulla pariatur?
+      Cupcake biscuit pastry lemon drops brownie chocolate soufflé. Sweet roll candy ice cream ice cream jelly wafer biscuit. Apple pie danish oat cake icing donut tart.
+
+Tart sugar plum croissant icing tiramisu sesame snaps ice cream liquorice powder. Cake tootsie roll jelly. Ice cream ice cream jelly jelly beans chupa chups oat cake powder jelly beans.
       </p>
       <p>
-        Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut
-        labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco
-        laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in
-        voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat
-        cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+      Jelly tart gummies marshmallow chupa chups jelly-o danish soufflé. Gingerbread lollipop sweet roll topping lollipop sweet. Chocolate bar lemon drops candy carrot cake cookie tiramisu pudding tart sugar plum.
+
+Bear claw jelly beans toffee jelly-o chocolate bar pastry. Topping cookie carrot cake soufflé apple pie dragée cupcake wafer. Donut lollipop jelly beans soufflé. Fruitcake soufflé jujubes macaroon ice cream.
       </p>
-      <p>
-        At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium
-        voluptatum deleniti atque corrupti quos dolores et quas molestias excepturi sint occaecati
-        cupiditate non provident, similique sunt in culpa qui officia deserunt mollitia animi, id
-        est laborum et dolorum fuga. Et harum quidem rerum facilis est et expedita distinctio. Nam
-        libero tempore, cum soluta nobis est eligendi optio cumque nihil impedit quo minus id quod
-        maxime placeat facere possimus, omnis voluptas assumenda est, omnis dolor repellendus.
-        Temporibus autem quibusdam et aut officiis debitis aut rerum necessitatibus saepe eveniet ut
-        et voluptates repudiandae sint et molestiae non recusandae. Itaque earum rerum hic tenetur a
-        sapiente delectus, ut aut reiciendis voluptatibus maiores alias consequatur aut perferendis
-        doloribus asperiores repellat.
+      Carrot cake candy canes tootsie roll jujubes gingerbread soufflé sweet. Halvah chocolate cake gummies dessert marzipan cheesecake liquorice. Dessert toffee bear claw chocolate chocolate cake pastry. Biscuit fruitcake tiramisu fruitcake caramels donut icing. Liquorice biscuit cake cupcake. Tootsie roll pudding carrot cake apple pie jelly beans candy gummi bears. Sugar plum macaroon croissant cake cheesecake. Liquorice caramels chocolate cake carrot cake. Fruitcake danish soufflé carrot cake. Dragée biscuit toffee lemon drops topping brownie candy canes. Sweet roll biscuit caramels wafer bonbon macaroon wafer. Halvah candy liquorice danish. Sweet brownie carrot cake jujubes. Cake gingerbread halvah dragée candy canes tart liquorice pie.
       </p>
     </section>
   );
