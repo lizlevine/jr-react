@@ -3,7 +3,7 @@
   margin-top: 400px;
 }
 
-p {
+.section p {
   margin: 50px;
   /* margin-right: 50px;
   margin-left: 50px; */
@@ -11,4 +11,6 @@ p {
 
 h4 {
   text-align: center;
+  color: navy;
+  margin-top: 50px;
 }
