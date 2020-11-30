@@ -3,22 +3,30 @@ import { FaGithub, FaLinkedin,  FaTwitter, FaEnvelope } from "react-icons/fa";
 
 import "./style.css";
 
+const styles = {
+  iconStyle: {
+    color: "indigo",
+    margin: "30px",
+    size: "5em", 
+    textAlign: "center"
+  }
+};
+
+// We use JSX curly braces to evaluate the style object
+
 function SocialFollow() {
   return (
-    <div class="social-container">
+    <div style={styles.iconStyle} className="social-container">
       <h2>Social Follow</h2>
 
-      <p className="social-icons">
-        {/* <FaGithub  color="orangered" size="2em"   margin-right="10em"/> 
-            <FaLinkedin  color="orangered" size="2em" padding-right="10em"/>
-            <FaTwitter color="orangered" size="2em"/>
-            <FaEnvelope color="orangered" size="2em"/> */}
 
-              <FaGithub /> 
+      <p className="socialIcons">
+        <FaGithub  /> 
             <FaLinkedin />
-            <FaTwitter/>
-            <FaEnvelope/>
+            <FaTwitter />
+            <FaEnvelope />
           </p>
+
     </div>
   );
 }
